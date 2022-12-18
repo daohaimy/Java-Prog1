@@ -1,0 +1,21 @@
+Aufgabenblatt 4:
+
+Aufgabe 1:
+a) nummer, inhaber, betrag
+b) int nummer, String inhaber
+c) Zeile 7, 13, 17, 21
+d) Zeile 7
+e) nummer
+f) betrag
+g) Zeile 6: int nummer hat jetzt (42) und String inhaber hat (ich)
+h) Zeile 12: (42) von int nummer
+i) es wird dann ein Fehler geben
+j) k1 = 200
+   k2 = 100
+   diff = 100
+   k2.abbuchen = 100 - 100 = 0
+   k1.einzahlen = 200 + 200 = 400
+   k2.abbuchen = 0 - 400 = -400
+=> k1 = 400, k2 = -400
+
+Aufgabe 4:
