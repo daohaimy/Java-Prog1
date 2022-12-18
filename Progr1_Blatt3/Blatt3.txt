@@ -1,0 +1,39 @@
+Aufgabeblatt 3:
+
+Aufgabe 1:
+syntaktisch korrekt: Top10, OO7, JDK6, ichBinEinUnheimlichLangerBezeichnerDerWahrscheinlichGarnichtZulaessigSeinKann, XXIV, XXIV24
+unzulässig: 3malIstOldenburgerRecht, 0O0Oo0Oo0O, Sum.java, tel0
+
+Aufgabe 3:
+korrekt: I, III, V, X, XI
+falsch: II, IV, VI, VII, VIII, IX
+--> korrekt: I, II, III, V, VI, VII, VIII
+    falsch: IV, IX
+
+VII: 5+(-+5)+(-5) = 5-5-5 = -5
+VIII: /*5*/ ist ein Kommentar
+XI: double
+
+
+Aufgabe4:
+a) 3.14159
+	-> liefert normal Anzahl von a
+b) 4.14159
+	-> a wurde 1 addiert
+c) 2
+	-> a ist gerade double, in dem Code wurde a zu int geändert,
+	   und 8 ist auch integer. Deshalb wurde der Ergebnis zu Integer
+	   geliefert
+d) 2,546481240391012
+	-> der Egebnis ist double, da a double ist
+e) 2
+	-> 8/a liefert Ergebnis in double, da es davor integer steht,
+	   liefert der Ergebnis zu integer
+
+Aufgabe 7:
+b)
+- ja, man kann mehr Konstruktoren mit vielen verschiedenen Werten von den 
+  Produkten, zum Beispiel: den Name, Produktnummer und Preise ändern.
+c)
+- Man kann trotzdem viele Konstruktoren erstellen, da man vielen
+vierschiedenen Werten für Tag, Monat sowie Jahr eingeben.
