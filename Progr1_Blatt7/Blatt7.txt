@@ -1,0 +1,59 @@
+Blatt 7:
+
+Aufgabe 1:
+a) 	
+P8A3 (ArrayList<Integer> al, String test, Integer ganzeZahl, int auchNeGanzeZahl, int [] i){
+	this.al = al;
+	this.test = test;
+	this.ganzeZahl = ganzeZahl
+	this.auchNeGanzeZahl = auchNeGanzeZahl;
+	this.i = i;
+}
+
+b)
+public ArrayList<Integer> getArrayList(){
+      return this.al;
+}
+public String getTest(){
+      return this.test;
+}
+public Integer getGanzeZahl(){
+      return this.ganzeZahl;
+}
+public int getAuchNeGanzeZahl(){
+      return this.auchNeGanzeZahl;
+}
+public int[] getI(){
+      return this.i;
+}
+
+c) 
+public void setAl(){
+	this.al = al;
+}
+public void setTest(){
+	this.test = test;
+}
+public void setGanzeZahl(){
+	this.ganzeZahl = ganzeZahl;
+}
+public void setAuchNeGanzeZahl(){
+	this.auchNeGanzeZahl = auchNeGanzeZahl;
+}
+public void setI(){
+	this.i = i;
+}
+
+d)
+Objektvariable ist globale Variable
+
+
+
+
+
+
+
+
+
+
+
