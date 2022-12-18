@@ -1,0 +1,6 @@
+Blatt 6:
+
+Aufgabe 1:
+rechts - gleiche zeile, +1 spalte
+links - gleiche zele, -1 spalte
+
